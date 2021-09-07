@@ -1,5 +1,5 @@
-isim = "Deniz Ozmen"
-tc = "267320239203"
+isim = "John Doe"
+tc = "12590821905812"
 yas = 20
 boy = 165.45
 akilli = True
